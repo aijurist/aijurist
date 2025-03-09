@@ -37,6 +37,8 @@ class AIDeveloper:
     
     def build(self):
         return "Architecting intelligent systems since 2022 🔥"
+```
+
 ---
 
 ## 🛠️ **Technological Arsenal**

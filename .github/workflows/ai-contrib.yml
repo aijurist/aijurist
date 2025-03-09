@@ -1,4 +1,4 @@
-name: AI Contribution Art
+name: AI Contribution Artifacts
 
 on:
   schedule:
@@ -6,19 +6,32 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate-ai-art:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: jstrieb/github-contribution-svg@main
-        with: 
-          username: aijurist
-          path: assets/contrib.svg
-          colors: "39FF14,00F0FF,FF00E6" # AI neon colors
-          shape: "neural" # AI-specific pattern
-      - run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git add -A
-          git commit -m "Update AI contribution art"
+      
+      # Neural Network Snake
+      - uses: Platane/snk@master
+        with:
+          github_user_name: aijurist
+          svg_output_path: contribution-grid-snake.svg
+          color: '#39FF14' # AI Matrix Green
+          type: 'gatsby'
+          line: '#00F0FF' # Circuit Blue
+          
+      # Circuit Board Grid
+      - uses: aijurist/circuit-contrib@main
+        with:
+          user: aijurist
+          output: contribution-grid-circuit.svg
+          connection_color: '#FF10F0' # AI Pink
+          node_color: '#00FF00' # Neural Green
+          
+      - name: Commit Files
+        run: |
+          git config user.name "GitHub AI"
+          git config user.email "ai@github.com"
+          git add *.svg
+          git commit -m "Update AI contribution artifacts"
           git push

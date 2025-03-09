@@ -81,13 +81,11 @@
 
 <div align="center">
 
-## 🤖 **AI-Powered Contributions**
+## 🤖 **Neural Commit Patterns**
 
-[![AI Training Progress](https://raw.githubusercontent.com/aijurist/aijurist/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/aijurist)
+[![AI Dev Contributions](https://raw.githubusercontent.com/aijurist/aijurist/main/contribution-grid-snake.svg)](https://github.com/aijurist)
 
-[![Neural Contributions](https://images.weserv.nl/?url=raw.githubusercontent.com/aijurist/aijurist/output/ai-contrib.svg&mask=circle)](https://github.com/aijurist)
-
-[![AI Contribution Pattern](https://raw.githubusercontent.com/aijurist/aijurist/main/assets/contrib.svg)](https://github.com/aijurist)
+[![Circuit Board Contributions](https://raw.githubusercontent.com/aijurist/aijurist/output/contribution-grid-ciruit.svg)](https://github.com/aijurist)
 
 </div>
 

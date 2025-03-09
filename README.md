@@ -3,7 +3,7 @@
 <div align="center">
   
 <!-- Dynamic Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=🤖+AI+Developer+%7C+🧑💻+Neural+Architect;⚡+TensorFlow+%7C+PyTorch+%7C+GenAI;🔧+MLOps+%7C+Cloud+AI+%7C+Reinforcement+Learning" alt="AI Developer Header">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=🤖+AI+Developer+%7C+🧑💻+Neural+Architect;⚡+TensorFlow+%7C+PyTorch+%7C+GenAI;🔧+Cloud+AI+%7C+Reinforcement+Learning" alt="AI Developer Header">
 
 <!-- Profile Badges -->
 <p align="center">

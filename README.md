@@ -1,6 +1,4 @@
-Here’s a draft of your GitHub README:
-
----
+~---
 
 # 👋 Hey there! I'm **Shanthosh S**  
 *(But thanks to an accidental decision, my GitHub username is [aijurist](https://github.com/aijurist), named after my first-ever ML project! 😆)*  

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 364 112" style="background:#000">
+  <!-- Generative Grid -->
+  <filter id="neural-glow">
+    <feGaussianBlur stdDeviation="2" result="glow"/>
+    <feMerge>
+      <feMergeNode in="glow"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <!-- Latent Space Grid -->
+  <g transform="translate(2,2)">
+    <!-- Generator Network Paths -->
+    <path d="M10 10 Q30 15 50 5 T90 20" stroke="#4AFF00" fill="none" opacity="0.3"/>
+    <path d="M10 30 Q35 40 60 25 T110 35" stroke="#00FFC3" fill="none" opacity="0.3"/>
+    
+    <!-- Discriminator Nodes -->
+    <g filter="url(#neural-glow)">
+      <!-- Contribution Cells as Activated Neurons -->
+      <rect x="20" y="15" width="10" height="10" fill="#4AFF0080" class="contribution"/>
+      <rect x="35" y="25" width="10" height="10" fill="#00FFC380" class="contribution"/>
+      <!-- ... Repeat with positions based on real contribution data ... -->
+      
+      <!-- Embedded Activation Metrics -->
+      <text x="300" y="30" fill="#00FFC3" font-family="monospace" font-size="8">
+        EPOCH: 157 | LOSS: 0.0231
+      </text>
+      <text x="300" y="45" fill="#4AFF00" font-family="monospace" font-size="8">
+        COMMIT_ACTIVATION: 83.7%
+      </text>
+    </g>
+    
+    <!-- Data Stream -->
+    <path d="M5 100 L360 100" stroke="#FFFFFF30" stroke-width="2"/>
+    <text x="5" y="108" font-size="6" fill="#00FFC3" font-family="monospace">
+      [ latent_space::contributions ] >> 
+      █▓▒░01000011 01101111 01100100 01100101 
+      ░▒▓█║▌╣╠╬║╬
+    </text>
+  </g>
+</svg>

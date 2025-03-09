@@ -85,6 +85,7 @@
 
 ### **Neural Contribution Map**  
 [![AI-Optimized Contributions](https://raw.githubusercontent.com/aijurist/aijurist/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/aijurist)
+[![AI Contribution GAN](https://raw.githubusercontent.com/aijurist/aijurist/main/gan_contributions.svg)](https://github.com/aijurist)
 
 ### **Deep Learning Activity Stream**  
 ![AI Development Pattern](https://raw.githubusercontent.com/aijurist/aijurist/refs/heads/main/dist/github-contribution-grid-snake-dark.svg)

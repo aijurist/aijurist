@@ -99,14 +99,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/Professional_Network-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shanthosh-s-3a1930257/)
 [![Email](https://img.shields.io/badge/Official_Mail-EA4335?style=for-the-badge&logo=gmail)](mailto:shanthosh811@gmail.com)
-[![LeetCode](https://img.shields.io/badge/Algorithmic_Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/yourprofile)
-
 </div>
 
 ---
 
 <div align="center">
   
-🔥 **Fun Fact**: My models have negotiated better deals than my college canteen!  
+🔥 **Fun Fact**: It’s not a bug, it’s an undocumented feature. - Some random guy
 
 </div>

@@ -81,20 +81,13 @@
 
 <div align="center">
 
-## 📊 **Code Chronicles**
+## 🤖 **AI-Powered Contributions**
 
-[![Contribution Snake](https://raw.githubusercontent.com/aijurist/aijurist/output/github-contribution-grid-snake-dark.svg)](https://github.com/aijurist)
+[![AI Training Progress](https://raw.githubusercontent.com/aijurist/aijurist/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/aijurist)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aijurist&theme=github-dark&area=true&hide_border=true&custom_title=My%20Coding%20Trail)](https://github.com/aijurist)
+[![Neural Contributions](https://images.weserv.nl/?url=raw.githubusercontent.com/aijurist/aijurist/output/ai-contrib.svg&mask=circle)](https://github.com/aijurist)
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=aijurist&show_icons=true&theme=vision-friendly-dark" style="width: 100%"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=aijurist&theme=vision-friendly-dark" style="width: 100%"></td>
-  </tr>
-</table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aijurist&layout=compact&theme=vision-friendly-dark&langs_count=8)
+[![AI Contribution Pattern](https://raw.githubusercontent.com/aijurist/aijurist/main/assets/contrib.svg)](https://github.com/aijurist)
 
 </div>
 

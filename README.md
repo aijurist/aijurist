@@ -89,18 +89,18 @@ class AIDeveloper:
 </div>
 
 </td>
+
+<td>
+
+### 🌐 **Web Dev**  
+<div align="center">
+<img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black" />  
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />  
+</div>
+
+</td>
   </tr>
 </table>
-
----
-
-## 🏅 **Competition Legacy**
-
-| 🏆 **Project**                          | 📌 **Details**                                  | 🎯 **Impact** |
-|----------------------------------------|------------------------------------------------|--------------|
-| AI-Powered Bargain System              | GenAI Hackathon: Custom RL + Multi-Agent Architecture | 🥉 2nd Runner-Up |
-| FORUS Rescue Coordination              | PSG iTech Hackfest: NLP for Disaster Response  | 🏅 Top 100   |
-| Coal Mine Optimization (SIH1645)       | SIH 2024: Predictive Maintenance & Safety AI   | 🎖️ Finalist |
 
 ---
 
@@ -108,19 +108,20 @@ class AIDeveloper:
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijurist&layout=compact&theme=white" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=aijurist&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=white" />
-    </td>
-  </tr>
-</table>
+<!-- Custom Activity Badges -->
+<img src="https://img.shields.io/badge/ML%20Projects-15+-00ADD8?logo=github" />
+<img src="https://img.shields.io/badge/Commits/Week-20-00ADD8?logo=git" />
+<img src="https://img.shields.io/badge/LangChain%20Projects-15+-00ADD8?logo=langchain" />
+
+<!-- Dynamic Language Stats (via web_search[1]) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijurist&langs_count=5&layout=compact&theme=radical" />
+
+
+### **Commit Philosophy**  
+💡 *Strategic commits over frequent commits—quality over quantity!*   
+
 
 </div>
-
 
 ---
 
@@ -135,8 +136,10 @@ class AIDeveloper:
 ---
 
 <div align="center">
-  
-🔥 **Fun Fact**: It’s not a bug, it’s an undocumented feature. - Some random guy
+
+### 🎭🔥 **Fun Fact** 🔥🎭  
+🚀 *"It's not a bug, it's an undocumented feature."* 🕵️‍♂️💻  
+— *Some legendary developer, probably...*  
 
 </div>
 

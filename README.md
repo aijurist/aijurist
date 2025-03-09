@@ -78,12 +78,17 @@
 | Coal Mine Optimization (SIH1645)       | SIH 2024: Predictive Maintenance & Safety AI   | 🎖️ Finalist |
 
 ---
-
+  
 <div align="center">
 
-## 🤖 **Neural Commit Patterns**
+## 🤖 **AI Development Traces**
 
+### **Neural Contribution Map**  
+[![AI-Optimized Contributions](https://raw.githubusercontent.com/aijurist/aijurist/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/aijurist)
+
+### **Deep Learning Activity Stream**  
 ![AI Development Pattern](https://raw.githubusercontent.com/aijurist/aijurist/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![AI Development Pattern](https://raw.githubusercontent.com/aijurist/aijurist/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 

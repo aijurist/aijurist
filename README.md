@@ -1,20 +1,42 @@
 
 ---
-  
 <div align="center">
   
-# 👋 Hello World! I'm **Shanthosh S**  
-### *ML Engineer Building Smarter Systems* 🧠  
-*(My GitHub handle [@aijurist](https://github.com/aijurist) is a permanent reminder of my first legal AI experiment!)*  
-  
+<!-- Dynamic Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=🤖+AI+Developer+%7C+🧑💻+Neural+Architect;⚡+TensorFlow+%7C+PyTorch+%7C+GenAI;🔧+MLOps+%7C+Cloud+AI+%7C+Reinforcement+Learning" alt="AI Developer Header">
+
+<!-- Profile Badges -->
+<p align="center">
+  <a href="https://github.com/aijurist">
+    <img src="https://komarev.com/ghpvc/?username=aijurist&label=AI+Experiments&color=7E3ACE" alt="Profile Views">
+  </a>
+  <a href="https://github.com/aijurist?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-20+-7E3ACE?logo=github" alt="Projects">
+  </a>
+</p>
+
 </div>
 
 ---
 
-### 🚀 **Core Expertise**
-`Generative AI` • `Reinforcement Learning` • `MLOps`  
-🎓 3rd Year CSE Student @ Rajalakshmi Engineering College | 🔭 Currently Exploring: LLM Optimization & AI Agents  
+## 🧠 **Neural Profile**
 
+```python
+class AIDeveloper:
+    def __init__(self):
+        self.name = "Shanthosh S"
+        self.title = "AI Engineer | GenAI Specialist"
+        self.education = "B.Tech CSE '25 @ Rajalakshmi Engineering College"
+        self.skills = {
+            "Core ML": ["PyTorch", "TensorFlow", "OpenCV"],
+            "GenAI": ["LangChain", "HuggingFace", "LoRA", "RAG"],
+            "MLOps": ["Docker", "Kubeflow", "GCP", "W&B"],
+            "Research": ["Reinforcement Learning", "LLM Optimization"]
+        }
+        self.handle = "@aijurist"  # Legacy from first legal AI project
+    
+    def build(self):
+        return "Architecting intelligent systems since 2022 🔥"
 ---
 
 ## 🛠️ **Technological Arsenal**

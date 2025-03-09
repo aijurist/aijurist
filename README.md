@@ -27,7 +27,7 @@ class AIDeveloper:
     def __init__(self):
         self.name = "Shanthosh S"
         self.title = "AI Engineer | GenAI Specialist"
-        self.education = "B.Tech CSE '25 @ Rajalakshmi Engineering College"
+        self.education = "B.Tech CSE 3rd Year @ Rajalakshmi Engineering College"
         self.skills = {
             "Core ML": ["TensorFlow", "PyTorch", "OpenCV"],
             "GenAI": ["LangChain", "HuggingFace", "LoRA", "RAG"],

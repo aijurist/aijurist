@@ -104,6 +104,13 @@ class AIDeveloper:
 
 ---
 
+
+## 📊 **Profile Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aijurist&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+---
+
 ## 🌐 **Let's Collaborate**
 
 <div align="center">

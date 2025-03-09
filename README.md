@@ -34,7 +34,7 @@ class AIDeveloper:
             "MLOps": ["Docker", "GCP", "W&B"],
             "Research": ["Reinforcement Learning", "LLM Optimization"]
         }
-        self.handle = "@aijurist"
+        self.handle = "@aijurist"  # A mishap, named after my first legal AI project!
     
     def build(self):
         return "Building intelligent systems since 2022 🔥"

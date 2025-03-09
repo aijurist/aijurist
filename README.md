@@ -104,24 +104,27 @@ class AIDeveloper:
 
 ---
 
-## 📊 **Profile Stats**
+## 📊 **Profile Stats**  
 
-<div align="center">
+<div align="center">  
 
-<!-- Custom Activity Badges -->
-<img src="https://img.shields.io/badge/ML%20Projects-15+-00ADD8?logo=github" />
-<img src="https://img.shields.io/badge/Commits/Week-20-00ADD8?logo=git" />
-<img src="https://img.shields.io/badge/LangChain%20Projects-15+-00ADD8?logo=langchain" />
+<!-- Custom Activity Badges -->  
+<div>  
+  <img src="https://img.shields.io/badge/ML%20Projects-15+-00ADD8?logo=github" />  
+  <br>  
+  <img src="https://img.shields.io/badge/Commits/Week-20-00ADD8?logo=git" />  
+  <br>  
+  <img src="https://img.shields.io/badge/LangChain%20Projects-15+-00ADD8?logo=langchain" />  
+</div>  
 
-<!-- Dynamic Language Stats (via web_search[1]) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijurist&langs_count=5&layout=compact&theme=radical" />
-
+<!-- Dynamic Language Stats -->  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijurist&langs_count=5&layout=compact&theme=radical" />  
 
 ### **Commit Philosophy**  
-💡 *Strategic commits over frequent commits—quality over quantity!*   
+💡 *Strategic commits over frequent commits—quality over quantity!*  
 
+</div>  
 
-</div>
 
 ---
 

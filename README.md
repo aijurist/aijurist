@@ -79,38 +79,22 @@
 
 ---
 
-## 🌟 **Project Showcase**
-
-### ⚖️ **AIJurist**  
-**Legal Outcome Prediction Engine**  
-`Python` `BERT` `Flask` `PostgreSQL`  
-✔️ Achieved 89% accuracy in SC case predictions  
-✔️ Integrated SHAP for model interpretability  
-✔️ REST API serving with 150ms avg response time
-
-### 🤝 **Smart BargainGen**  
-**Reinforcement Learning Marketplace**  
-`Python` `RLlib` `LangGraph` `FastAPI`  
-🎯 Custom reward engine for negotiation scenarios  
-🔥 40% better deals than static pricing models  
-📈 Horizontal scaling with Ray cluster
-
-### 🚑 **FORUS Rescue**  
-**Disaster Response Coordinator**  
-`Python` `NLTK` `GoogleMaps API` `GCP`  
-📍 Real-time resource allocation system  
-🆘 NLP-powered distress signal classification  
-🌐 Integrated with govt disaster databases
-
----
-
 <div align="center">
 
-## 📈 **Code Odyssey**
+## 📊 **Code Chronicles**
 
-[![3D Contribution Map](https://github-readme-3d-git-profile.vercel.app/profile?username=aijurist&theme=chartreuse-dark)](https://github.com/aijurist)
+[![Contribution Snake](https://raw.githubusercontent.com/aijurist/aijurist/output/github-contribution-grid-snake-dark.svg)](https://github.com/aijurist)
 
-[![Contribution Timeline](https://github-readme-stats.vercel.app/api/wakatime?username=aijurist&layout=compact&theme=radical&custom_title=Weekly+Development+Breakdown)](https://wakatime.com/@aijurist)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aijurist&theme=github-dark&area=true&hide_border=true&custom_title=My%20Coding%20Trail)](https://github.com/aijurist)
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=aijurist&show_icons=true&theme=vision-friendly-dark" style="width: 100%"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=aijurist&theme=vision-friendly-dark" style="width: 100%"></td>
+  </tr>
+</table>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aijurist&layout=compact&theme=vision-friendly-dark&langs_count=8)
 
 </div>
 

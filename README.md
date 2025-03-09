@@ -90,7 +90,7 @@ class AIDeveloper:
 
 </td>
 
-<td>
+<!-- <td>
 
 ### 🌐 **Web Dev**  
 <div align="center">
@@ -98,7 +98,7 @@ class AIDeveloper:
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />  
 </div>
 
-</td>
+</td> -->
   </tr>
 </table>
 

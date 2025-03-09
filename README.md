@@ -107,7 +107,7 @@ class AIDeveloper:
 
 ## 📊 **Profile Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aijurist&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aijurist&layout=compact&theme=radical)
 
 ---
 

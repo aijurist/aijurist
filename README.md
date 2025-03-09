@@ -111,9 +111,9 @@ class AIDeveloper:
 <!-- Custom Activity Badges -->  
 <div>  
   <img src="https://img.shields.io/badge/ML%20Projects-15+-00ADD8?logo=github" />  
-  <br>  
+  <!-- <br>   -->
   <img src="https://img.shields.io/badge/Commits/Week-20-00ADD8?logo=git" />  
-  <br>  
+  <!-- <br>   -->
   <img src="https://img.shields.io/badge/LangChain%20Projects-15+-00ADD8?logo=langchain" />  
 </div>  
 

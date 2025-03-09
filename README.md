@@ -87,8 +87,8 @@
 [![AI-Optimized Contributions](https://raw.githubusercontent.com/aijurist/aijurist/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/aijurist)
 
 ### **Deep Learning Activity Stream**  
-![AI Development Pattern](https://raw.githubusercontent.com/aijurist/aijurist/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![AI Development Pattern](https://raw.githubusercontent.com/aijurist/aijurist/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![AI Development Pattern](https://raw.githubusercontent.com/aijurist/aijurist/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![AI Development Pattern](https://raw.githubusercontent.com/aijurist/aijurist/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 

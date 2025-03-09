@@ -65,7 +65,7 @@ An AI-powered model that predicts **court case outcomes** using ML.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aijurist&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aijurist&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aijurist&layout=compact&theme=radical)
-![My Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aijurist&bg_color=0D1117&color=58a6ff&line=58a6ff&point=F8D866&area=true&hide_border=true)](https://github.com/aijurist)
+[![My Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aijurist&bg_color=0D1117&color=58a6ff&line=58a6ff&point=F8D866&area=true&hide_border=true)](https://github.com/aijurist)
 
 
 ---

@@ -83,9 +83,7 @@
 
 ## 🤖 **Neural Commit Patterns**
 
-[![AI Dev Contributions](https://raw.githubusercontent.com/aijurist/aijurist/main/contribution-grid-snake.svg)](https://github.com/aijurist)
-
-[![Circuit Board Contributions](https://raw.githubusercontent.com/aijurist/aijurist/output/contribution-grid-ciruit.svg)](https://github.com/aijurist)
+![AI Development Pattern](https://raw.githubusercontent.com/aijurist/aijurist/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 

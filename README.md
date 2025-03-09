@@ -1,14 +1,15 @@
 
 ---
+
 <div align="center">
   
 <!-- Dynamic Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=🤖+AI+Developer+%7C+🧑💻+Neural+Architect;⚡+TensorFlow+%7C+PyTorch+%7C+GenAI;🔧+Cloud+AI+%7C+Reinforcement+Learning" alt="AI Developer Header">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+GenAI+Specialist;TensorFlow+%7C+PyTorch+%7C+MLOps;Cloud+AI+%7C+Reinforcement+Learning" alt="AI Engineer Header">
 
 <!-- Profile Badges -->
 <p align="center">
   <a href="https://github.com/aijurist">
-    <img src="https://komarev.com/ghpvc/?username=aijurist&label=AI+Experiments&color=7E3ACE" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=aijurist&label=Profile+Views&color=7E3ACE" alt="Profile Views">
   </a>
   <a href="https://github.com/aijurist?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-20+-7E3ACE?logo=github" alt="Projects">
@@ -28,15 +29,15 @@ class AIDeveloper:
         self.title = "AI Engineer | GenAI Specialist"
         self.education = "B.Tech CSE '25 @ Rajalakshmi Engineering College"
         self.skills = {
-            "Core ML": ["PyTorch", "TensorFlow", "OpenCV"],
+            "Core ML": ["TensorFlow", "PyTorch", "OpenCV"],
             "GenAI": ["LangChain", "HuggingFace", "LoRA", "RAG"],
-            "MLOps": ["Docker", "Kubeflow", "GCP", "W&B"],
+            "MLOps": ["Docker", "GCP", "W&B"],
             "Research": ["Reinforcement Learning", "LLM Optimization"]
         }
-        self.handle = "@aijurist"  # Legacy from first legal AI project
+        self.handle = "@aijurist"
     
     def build(self):
-        return "Architecting intelligent systems since 2022 🔥"
+        return "Building intelligent systems since 2022 🔥"
 ```
 
 ---
@@ -94,7 +95,7 @@ class AIDeveloper:
 ---
 
 ## 🏅 **Competition Legacy**
-  
+
 | 🏆 **Project**                          | 📌 **Details**                                  | 🎯 **Impact** |
 |----------------------------------------|------------------------------------------------|--------------|
 | AI-Powered Bargain System              | GenAI Hackathon: Custom RL + Multi-Agent Architecture | 🥉 2nd Runner-Up |
@@ -102,20 +103,6 @@ class AIDeveloper:
 | Coal Mine Optimization (SIH1645)       | SIH 2024: Predictive Maintenance & Safety AI   | 🎖️ Finalist |
 
 ---
-<!--   
-<div align="center">
-
-## 🤖 **AI Development Traces**
-
-### **Neural Contribution Map**  
-[![AI-Optimized Contributions](https://raw.githubusercontent.com/aijurist/aijurist/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/aijurist)
-
-### **Deep Learning Activity Stream**  
-![AI Development Pattern](https://raw.githubusercontent.com/aijurist/aijurist/refs/heads/main/dist/github-contribution-grid-snake-dark.svg)
-
-</div>
-
---- -->
 
 ## 🌐 **Let's Collaborate**
 
@@ -132,3 +119,5 @@ class AIDeveloper:
 🔥 **Fun Fact**: It’s not a bug, it’s an undocumented feature. - Some random guy
 
 </div>
+
+---

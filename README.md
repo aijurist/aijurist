@@ -104,12 +104,25 @@ class AIDeveloper:
 
 ---
 
-
 ## 📊 **Profile Stats**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aijurist&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aijurist&layout=compact&theme=white)
+
+    </td>
+    <td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aijurist&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=white)
+
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ## 🌐 **Let's Collaborate**
 

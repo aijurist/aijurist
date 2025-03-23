@@ -123,6 +123,7 @@ class AIDeveloper:
 ### **Commit Philosophy**  
 💡 *Strategic commits over frequent commits—quality over quantity!*  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=aijurist&theme=dracula)](https://git.io/streak-stats)
 </div>  
 
 

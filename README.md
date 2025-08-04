@@ -112,8 +112,8 @@ class AIDeveloper:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Professional_Network-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shanthosh-s-3a1930257/)
-[![Email](https://img.shields.io/badge/Official_Mail-EA4335?style=for-the-badge&logo=gmail)](mailto:shanthosh811@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shanthosh-s-3a1930257/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:shanthosh811@gmail.com)
 </div>
 
 ---

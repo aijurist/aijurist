@@ -40,7 +40,7 @@ class AIDeveloper:
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,docker,gcp,fastapi,flask,mongodb,linux,react,postman&perline=6&theme=dark" />
 </div>
 
-### **🔥 AI Agent Orchestration**
+### **AI Agent Orchestration**
 
 <table align="center">
   <tr>

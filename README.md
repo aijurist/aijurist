@@ -1,26 +1,19 @@
 
 ---
 
-<div align="center">
-  
-<!-- Dynamic Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+GenAI+Specialist;TensorFlow+%7C+PyTorch+%7C+MLOps;Cloud+AI+%7C+Reinforcement+Learning" alt="AI Engineer Header">
+# Hey there! I'm Shanthosh 👋
 
-<!-- Profile Badges -->
-<p align="center">
-  <a href="https://github.com/aijurist">
-    <img src="https://komarev.com/ghpvc/?username=aijurist&label=Profile+Views&color=7E3ACE" alt="Profile Views">
-  </a>
-  <a href="https://github.com/aijurist?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-20+-7E3ACE?logo=github" alt="Projects">
-  </a>
-</p>
+<div align="center">
+
+![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=500&lines=AI+Engineer;GenAI+Specialist;Building+the+Future+%F0%9F%9A%80)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=aijurist&label=visitors&color=00D4AA&style=flat)](https://github.com/aijurist)
 
 </div>
 
 ---
 
-## 🧠 **Neural Profile**
+## **Neural Profile**
 
 ```python
 class AIDeveloper:
@@ -42,7 +35,7 @@ class AIDeveloper:
 
 ---
 
-## 🛠️ **Technological Arsenal**
+## **Technological Arsenal**
 
 <table align="center">
   <tr>
@@ -104,32 +97,18 @@ class AIDeveloper:
 
 ---
 
-## 📊 **Profile Stats**  
+## **Profile Stats**  
 
 <div align="center">  
 
-<!-- Custom Activity Badges -->  
-<div>  
-  <img src="https://img.shields.io/badge/ML%20Projects-15+-00ADD8?logo=github" />  
-  <!-- <br>   -->
-  <img src="https://img.shields.io/badge/Commits/Week-20-00ADD8?logo=git" />  
-  <!-- <br>   -->
-  <img src="https://img.shields.io/badge/LangChain%20Projects-15+-00ADD8?logo=langchain" />  
-</div>  
-
 <!-- Dynamic Language Stats -->  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijurist&langs_count=5&layout=compact&theme=radical" />  
-
-### **Commit Philosophy**  
-💡 *Strategic commits over frequent commits—quality over quantity!*  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aijurist&theme=dracula)](https://git.io/streak-stats)
 </div>  
 
 
 ---
 
-## 🌐 **Let's Collaborate**
+## **Let's Collaborate**
 
 <div align="center">
 
@@ -141,10 +120,8 @@ class AIDeveloper:
 
 <div align="center">
 
-### 🎭🔥 **Fun Fact** 🔥🎭  
-🚀 *"It's not a bug, it's an undocumented feature."* 🕵️‍♂️💻  
+
+*"It's not a bug, it's an undocumented feature."* 🕵️‍♂️💻  
 — *Some legendary developer, probably...*  
 
 </div>
-
----
